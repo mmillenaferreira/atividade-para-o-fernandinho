@@ -19,6 +19,12 @@ filmes_assistidos = np.array([
     [0,0,1,1],
     [1,0,1,0],
     [0,1,0,1]
+    [1,1,0,1],
+    [0,1,0,0],
+    [0,0,1,0],
+    [1,0,1,1],
+    [0,1,1,1],
+  
 ])
 
 # Definindo o número de clusters (Grupos)
